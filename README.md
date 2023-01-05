@@ -28,10 +28,10 @@
         <div class="row">
             <div class="col" id="Sobremi">
                 <section>
-                    </style>
+                
                     <img id="imagenDePerfil"
                         src="https://dvdbash.files.wordpress.com/2012/04/lost_terry_o_quinn_john_locke_dvdbash_128.jpg"
-                        class="img-fluid" alt="JEREMY BENTHAM " style="width:350px;height: 400px;"></th>
+                        class="img-fluid" alt="JEREMY BENTHAM " style="width:350px;height: 400px;">
         
                     <ul>
                         <li> SOBRE MI:</li>
