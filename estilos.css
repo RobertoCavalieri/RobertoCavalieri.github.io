@@ -1,0 +1,72 @@
+body {
+  background-image: url(https://res.cloudinary.com/practicaldev/image/fetch/s--BuPz-p40--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nphrgz8yfnjylrwfr0yl.png)
+}
+#Nombre {
+  text-align: center;
+  color: azure;
+}
+
+#Sobremi {
+  color: azure;;
+  float: left;
+  left: 5%;
+  width: 400px;
+  border: 15px solid rgb(8, 11, 14);
+  padding: 10px 20px 40px 10px;
+  margin: 0px;
+  background-color: rgb(18, 33, 49);
+}
+#Perfil {
+  font-size: larger;
+  width: 400px;
+  height: 45px;
+  top: 55%;
+  left: 35%;
+  margin-top: -100px;
+  margin-left: -100px;
+}
+.col {
+  font-style: inherit;
+  font-family: serif;
+  font-size: medium;
+  float: right;
+  padding-top: 20px;
+  margin-right: 50px;
+  
+}
+.box {
+  padding: 10px;
+}
+.box2 {
+  padding: 10px;
+}
+#imagenDePerfil {
+  margin-bottom: 10px;
+  border-bottom-width: 10px;
+  padding-bottom: 5px;
+}
+#columnaPerfil {
+  margin-top: 100px;
+    margin-left: 40px;
+}
+.box3 {
+  padding: 30px;
+}
+#PerfilJhon{
+  color: azure;
+}
+.carousel-caption{
+  background-color: black;
+  opacity: 0.6;
+  border-radius: 5px;
+  
+}
+.tercero{
+  min-width: 256px;
+}
+.SegundoCarrousel{
+  min-width: 256px;
+}
+.primero{
+  min-width: 256px;
+}
