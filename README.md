@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 
 <head>
@@ -28,11 +28,11 @@
         <div class="row">
             <div class="col" id="Sobremi">
                 <section>
-              
+                    </style>
                     <img id="imagenDePerfil"
                         src="https://dvdbash.files.wordpress.com/2012/04/lost_terry_o_quinn_john_locke_dvdbash_128.jpg"
-                        class="img-fluid" alt="JEREMY BENTHAM " style="width:350px;height: 400px;">
-                   
+                        class="img-fluid" alt="JEREMY BENTHAM " style="width:350px;height: 400px;"></th>
+        
                     <ul>
                         <li> SOBRE MI:</li>
                         Tras un trágico accidente en el que el avión 815 de Oceanic con destino a Los Ángeles se
@@ -52,7 +52,7 @@
                             <li>Seguir rastros</li>
                         </ul>
 
-                
+                    </ul>
                 </section>
             </div>
 
@@ -81,7 +81,7 @@
                         <li>Supervisor regional de una compañía fabricante de cajas de cartón.
                         </li>
                     </ul>
-                    </ul>
+                    
                 </p>
                 </div>
                 <div class="row">
