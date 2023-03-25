@@ -30,7 +30,7 @@
                 <section>
                 
                     <img id="imagenDePerfil"
-                        src="https://dvdbash.files.wordpress.com/2012/04/lost_terry_o_quinn_john_locke_dvdbash_128.jpg"
+                        src="https://tvobsessive.com/wp-content/uploads/2020/04/Lost-Jeremy-Bentham-1-758x426.jpg"
                         class="img-fluid" alt="JEREMY BENTHAM " style="width:350px;height: 400px;">
         
                     <ul>
